@@ -1,0 +1,59 @@
+"FIPSCode","countyName","stateFIPS","countyFIPS","state","pounderrep2020","pounderrep2021"
+"06001","Alameda",6,1,"California",0.21115548,0
+"06075","San Francisco",6,75,"California",0.525195955,0.578371829
+"06099","Stanislaus",6,99,"California",0.220693867,0.126474395
+"06047","Merced",6,47,"California",0.321034703,0
+"06057","Nevada",6,57,"California",0.199816014,0.157074375
+"06003","Alpine",6,3,"California",0,0.108359085
+"06017","El Dorado",6,17,"California",0.556805104,0.303651542
+"06063","Plumas",6,63,"California",0.769554466,0
+"06061","Placer",6,61,"California",0,0.00623424500000003
+"06021","Glenn",6,21,"California",0,0
+"06069","San Benito",6,69,"California",0,0.082067713
+"06043","Mariposa",6,43,"California",0,0.321621908
+"06053","Monterey",6,53,"California",0.12924919,0.00882862699999998
+"06009","Calaveras",6,9,"California",0.529592345,0.309447613
+"06045","Mendocino",6,45,"California",0.702415737,0.499914357
+"06031","Kings",6,31,"California",0.34423193,0.383566294
+"06095","Solano",6,95,"California",0,0.188479911
+"06005","Amador",6,5,"California",0.395727102,0.278850965
+"06077","San Joaquin",6,77,"California",0.223592784,0
+"06033","Lake",6,33,"California",0,0
+"06041","Marin",6,41,"California",0,0.359389925
+"06101","Sutter",6,101,"California",0.034221234,0
+"06105","Trinity",6,105,"California",0,0
+"06023","Humboldt",6,23,"California",0.566093014,0.516714853
+"06037","Los Angeles",6,37,"California",0.298516224,0.142258482
+"06103","Tehama",6,103,"California",0.351257898,0.324513709
+"06055","Napa",6,55,"California",0,0.16144102
+"06111","Ventura",6,111,"California",0.430630785,0.248606163
+"06073","San Diego",6,73,"California",0.279920502,0.237814755
+"06089","Shasta",6,89,"California",0.285649031,0.189295609
+"06049","Modoc",6,49,"California",0.759248718,0.563745215
+"06039","Madera",6,39,"California",0.09876478,0.130315903
+"06107","Tulare",6,107,"California",0.277233991,0.193676331
+"06093","Siskiyou",6,93,"California",0.726596651,0.479766766
+"06025","Imperial",6,25,"California",0.235760671,0.12335006
+"06071","San Bernardino",6,71,"California",0.351688657,0.186485901
+"06059","Orange",6,59,"California",0.117344539,0.097426287
+"06097","Sonoma",6,97,"California",0.261196621,0.343967057
+"06081","San Mateo",6,81,"California",0,0
+"06035","Lassen",6,35,"California",0.365880007,0.248907728
+"06015","Del Norte",6,15,"California",0.747883127,0.237566553
+"06113","Yolo",6,113,"California",0.145413053,0.098088015
+"06087","Santa Cruz",6,87,"California",0,0.209501632
+"06079","San Luis Obispo",6,79,"California",0,0
+"06007","Butte",6,7,"California",0,0.013328028
+"06065","Riverside",6,65,"California",0.347456397,0.210946728
+"06067","Sacramento",6,67,"California",0.074505533,0
+"06013","Contra Costa",6,13,"California",0.128570677,0.103087131
+"06019","Fresno",6,19,"California",0.364104661,0.243263235
+"06085","Santa Clara",6,85,"California",0.054788799,0
+"06083","Santa Barbara",6,83,"California",0,0
+"06011","Colusa",6,11,"California",0,0
+"06027","Inyo",6,27,"California",0,0
+"06091","Sierra",6,91,"California",0.812602778,0
+"06029","Kern",6,29,"California",0.430710023,0.308092617
+"06115","Yuba",6,115,"California",0,0
+"06109","Tuolumne",6,109,"California",0.489900835,0.129151358
+"06051","Mono",6,51,"California",0,0

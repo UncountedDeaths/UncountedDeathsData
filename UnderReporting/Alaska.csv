@@ -1,43 +1,31 @@
 "FIPSCode","countyName","stateFIPS","countyFIPS","state","pounderrep2020","pounderrep2021"
-"02232","Southeast Alaska",2,232,"Alaska",0,0
-"02010","Southwest Alaska",2,10,"Alaska",0,0
-"02110","Juneau",2,110,"Alaska",0.307613174,0.098977494
-"02150","Kodiak Island",2,150,"Alaska",0.923004007,0.846201278
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02240","Southeast Fairbanks",2,240,"Alaska",0.664925414,0.713967305
-"02240","Southeast Fairbanks",2,240,"Alaska",0.664925414,0.713967305
-"02070","Dillingham",2,70,"Alaska",0.700094838,0.139834984
-"02070","Dillingham",2,70,"Alaska",0.700094838,0.139834984
-"02090","Fairbanks North Star",2,90,"Alaska",0.757394453,0.525366099
-"02100","Haines",2,100,"Alaska",0.300329878,0.507443886
-"02232","Southeast Alaska",2,232,"Alaska",0,0
-"02020","Anchorage",2,20,"Alaska",0.580691491,0.493025684
-"02180","Nome",2,180,"Alaska",0,0.888237105
-"02220","Sitka",2,220,"Alaska",0.494361661,0.931042834
-"02140","Northern Alaska",2,140,"Alaska",0.227044814,0.429704487
-"02261","Valdez-Cordova",2,261,"Alaska",0,0
-"02010","Southwest Alaska",2,10,"Alaska",0,0
-"02170","Matanuska-Susitna",2,170,"Alaska",0.68653281,0.472671103
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02232","Southeast Alaska",2,232,"Alaska",0,0
-"02232","Southeast Alaska",2,232,"Alaska",0,0
-"02050","Bethel",2,50,"Alaska",0,0
-"02060","Bristol Bay",2,60,"Alaska",0,0.419063952
-"02240","Southeast Fairbanks",2,240,"Alaska",0.664925414,0.713967305
-"02240","Southeast Fairbanks",2,240,"Alaska",0.664925414,0.713967305
-"02122","Kenai Peninsula",2,122,"Alaska",0,0.353023224
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02195","Petersburg",2,195,"Alaska",0.799389028,0.862206205
-"02185","North Slope",2,185,"Alaska",0,0
-"02261","Valdez-Cordova",2,261,"Alaska",0,0
-"02070","Dillingham",2,70,"Alaska",0.700094838,0.139834984
-"02240","Southeast Fairbanks",2,240,"Alaska",0.664925414,0.713967305
-"02158","Southwest Alaska",2,158,"Alaska",0,0.483702919
+"02230","Southeast Alaska",2,230,"Alaska","",""
+"02016","Southwest Alaska",2,16,"Alaska","",""
+"02110","Juneau",2,110,"Alaska","",0.302325581395349
+"02150","Kodiak Island",2,150,"Alaska","",""
+"02195","Petersburg",2,195,"Alaska","",0.898936170212766
+"02290","Southeast Fairbanks",2,290,"Alaska","",0.770491803278688
+"02164","Dillingham",2,164,"Alaska","",0.6
+"02090","Fairbanks North Star",2,90,"Alaska",0.732673267326733,0.550724637681159
+"02100","Haines",2,100,"Alaska","",""
+"02282","Southeast Alaska",2,282,"Alaska","",""
+"02020","Anchorage",2,20,"Alaska",0.56386292834891,0.551724137931034
+"02180","Nome",2,180,"Alaska","",""
+"02220","Sitka",2,220,"Alaska","",""
+"02188","Northern Alaska",2,188,"Alaska","",0.62962962962963
+"02063","Valdez-Cordova",2,63,"Alaska","",""
+"02013","Southwest Alaska",2,13,"Alaska","",""
+"02170","Matanuska-Susitna",2,170,"Alaska",0.690265486725664,0.427325581395349
+"02105","Southeast Alaska",2,105,"Alaska","",""
+"02050","Bethel",2,50,"Alaska",0.0,0.0
+"02060","Bristol Bay",2,60,"Alaska","",""
+"02068","Southeast Fairbanks",2,68,"Alaska","",0.770491803278688
+"02122","Kenai Peninsula",2,122,"Alaska",0.0,0.416666666666667
+"02130","Petersburg",2,130,"Alaska","",0.898936170212766
+"02198","Petersburg",2,198,"Alaska","",0.898936170212766
+"02275","Petersburg",2,275,"Alaska","",0.898936170212766
+"02185","North Slope",2,185,"Alaska","",0.0
+"02066","Valdez-Cordova",2,66,"Alaska","",""
+"02070","Dillingham",2,70,"Alaska","",0.6
+"02240","Southeast Fairbanks",2,240,"Alaska","",0.770491803278688
+"02158","Southwest Alaska",2,158,"Alaska","",""

@@ -1,9 +1,9 @@
 "FIPSCode","countyName","stateFIPS","countyFIPS","state","pounderrep2020","pounderrep2021"
-"09009","New Haven",9,9,"Connecticut",0.048147309,0
-"09001","Fairfield",9,1,"Connecticut",0.015652712,0
-"09005","Litchfield",9,5,"Connecticut",0.158378944,0
-"09011","New London",9,11,"Connecticut",0,0.243247381
-"09013","Tolland",9,13,"Connecticut",0.038520326,0.333829447
-"09015","Windham",9,15,"Connecticut",0.467455505,0
-"09003","Hartford",9,3,"Connecticut",0,0
-"09007","Middlesex",9,7,"Connecticut",0,0
+"09009","New Haven",9,9,"Connecticut",0.0,0.0
+"09001","Fairfield",9,1,"Connecticut",0.0005291005291004,0.0
+"09005","Litchfield",9,5,"Connecticut",0.0564263322884012,0.279069767441861
+"09011","New London",9,11,"Connecticut",0.0,0.423976608187134
+"09013","Tolland",9,13,"Connecticut",0.183168316831683,0.536312849162011
+"09015","Windham",9,15,"Connecticut",0.246636771300448,0.284671532846715
+"09003","Hartford",9,3,"Connecticut",0.0,0.0
+"09007","Middlesex",9,7,"Connecticut",0.0,0.0

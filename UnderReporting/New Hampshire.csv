@@ -1,11 +1,11 @@
 "FIPSCode","countyName","stateFIPS","countyFIPS","state","pounderrep2020","pounderrep2021"
-"33001","Belknap",33,1,"New Hampshire",0,0
-"33003","Carroll",33,3,"New Hampshire",0,0
-"33017","Strafford",33,17,"New Hampshire",0,0
-"33019","Sullivan",33,19,"New Hampshire",0.81533172,0
-"33013","Merrimack",33,13,"New Hampshire",0,0
-"33011","Hillsborough",33,11,"New Hampshire",0.013331572,0
-"33005","Cheshire",33,5,"New Hampshire",0,0.243874109
-"33009","Grafton",33,9,"New Hampshire",0,0
-"33007","Coos",33,7,"New Hampshire",0.0550771329999999,0.418918155
-"33015","Rockingham",33,15,"New Hampshire",0.231229692,0
+"33001","Belknap",33,1,"New Hampshire",0.0,0.0
+"33003","Carroll",33,3,"New Hampshire",0.0,0.0
+"33017","Strafford",33,17,"New Hampshire",0.03125,0.0
+"33019","Sullivan",33,19,"New Hampshire",0.233333333333333,0.145833333333333
+"33013","Merrimack",33,13,"New Hampshire",0.0,0.0
+"33011","Hillsborough",33,11,"New Hampshire",0.0,0.133986928104575
+"33005","Cheshire",33,5,"New Hampshire",0.0,0.306930693069307
+"33009","Grafton",33,9,"New Hampshire",0.0,0.0
+"33007","Coos",33,7,"New Hampshire",0.291666666666667,0.476190476190476
+"33015","Rockingham",33,15,"New Hampshire",0.107142857142857,0.0716723549488054
